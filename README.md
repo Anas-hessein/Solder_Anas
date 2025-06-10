@@ -17,7 +17,7 @@ A light-sensitive owl PCB with glowing LED eyes (photoresistor-controlled) and a
 
 ## Simulation
 ![Annotation 2025-06-10 225730](https://github.com/user-attachments/assets/4eadc960-5e61-4aac-a606-ec8d32f4db70)
-- ![](https://tinyurl.com/2ctncmjq)
+- https://tinyurl.com/2ctncmjq
 
 
 
